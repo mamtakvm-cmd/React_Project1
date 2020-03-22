@@ -1,0 +1,15 @@
+header{
+    background-color: pink;
+}
+
+.logo{
+    font-size:30px;
+    text-align:center;
+    color:#fff;
+
+}
+
+.grid img{
+     height:100px;
+     width:200px;
+}
